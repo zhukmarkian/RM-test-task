@@ -51,7 +51,7 @@ const Chars=styled.div`
 `
 const Location=styled.div`
   font-weight: bold;
-  margin-top: 12px;
+  margin-top: 12px
 `
 const Episode= styled.div`
   font-weight: bold;
